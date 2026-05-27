@@ -82,6 +82,16 @@
       "url": "https://drive.google.com/file/d/1sVOvycqiTP90Rsgi7SDYNcS0N-l8x2BG/view?usp=drive_link"
     },
     {
+      "modelo": "1501, 1502, 1503",
+      "producto": "FTALATOS-JUGUETES - Dictamen de excepción Resolución 02/2011 Nº 301-09811-1",
+      "url": "https://drive.google.com/file/d/16pYmescy-qsK_8FALDzQT0z3ghtwqeGW/view?usp=drive_link"
+    },
+    {
+      "modelo": "N621, N754, N613, N614, N617, N622",
+      "producto": "FTALATOS-JUGUETES - Dictamen de excepción Resolución 02/2011 Nº 301-12275-1",
+      "url": "https://drive.google.com/file/d/1NfDshZrBEG1PD4h0Al0kWqWn1GLXy4o6/view?usp=drive_link"
+    },
+    {
       "modelo": "01, 00, 00, 00",
       "producto": "PRODUCTO 1",
       "url": "https://"
@@ -89,6 +99,21 @@
     {
       "modelo": "02, 00, 00, 00",
       "producto": "PRODUCTO 2",
+      "url": "https://"
+    },
+    {
+      "modelo": "03, 00, 00, 00",
+      "producto": "PRODUCTO 3",
+      "url": "https://"
+    },
+    {
+      "modelo": "04, 00, 00, 00",
+      "producto": "PRODUCTO 4",
+      "url": "https://"
+    },
+    {
+      "modelo": "05, 00, 00, 00",
+      "producto": "PRODUCTO 5",
       "url": "https://"
     }
   ]
